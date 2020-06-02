@@ -1,0 +1,13 @@
+C:\Users\Windows\source\repos\Eloy_Barbosa_CS_TP3\Eloy_Barbosa_CS_TP3\bin\Debug\netcoreapp3.1\Eloy_Barbosa_CS_TP3.exe
+C:\Users\Windows\source\repos\Eloy_Barbosa_CS_TP3\Eloy_Barbosa_CS_TP3\bin\Debug\netcoreapp3.1\Eloy_Barbosa_CS_TP3.deps.json
+C:\Users\Windows\source\repos\Eloy_Barbosa_CS_TP3\Eloy_Barbosa_CS_TP3\bin\Debug\netcoreapp3.1\Eloy_Barbosa_CS_TP3.runtimeconfig.json
+C:\Users\Windows\source\repos\Eloy_Barbosa_CS_TP3\Eloy_Barbosa_CS_TP3\bin\Debug\netcoreapp3.1\Eloy_Barbosa_CS_TP3.runtimeconfig.dev.json
+C:\Users\Windows\source\repos\Eloy_Barbosa_CS_TP3\Eloy_Barbosa_CS_TP3\bin\Debug\netcoreapp3.1\Eloy_Barbosa_CS_TP3.dll
+C:\Users\Windows\source\repos\Eloy_Barbosa_CS_TP3\Eloy_Barbosa_CS_TP3\bin\Debug\netcoreapp3.1\Eloy_Barbosa_CS_TP3.pdb
+C:\Users\Windows\source\repos\Eloy_Barbosa_CS_TP3\Eloy_Barbosa_CS_TP3\obj\Debug\netcoreapp3.1\Eloy_Barbosa_CS_TP3.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Eloy_Barbosa_CS_TP3\Eloy_Barbosa_CS_TP3\obj\Debug\netcoreapp3.1\Eloy_Barbosa_CS_TP3.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Eloy_Barbosa_CS_TP3\Eloy_Barbosa_CS_TP3\obj\Debug\netcoreapp3.1\Eloy_Barbosa_CS_TP3.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Eloy_Barbosa_CS_TP3\Eloy_Barbosa_CS_TP3\obj\Debug\netcoreapp3.1\Eloy_Barbosa_CS_TP3.dll
+C:\Users\Windows\source\repos\Eloy_Barbosa_CS_TP3\Eloy_Barbosa_CS_TP3\obj\Debug\netcoreapp3.1\Eloy_Barbosa_CS_TP3.pdb
+C:\Users\Windows\source\repos\Eloy_Barbosa_CS_TP3\Eloy_Barbosa_CS_TP3\obj\Debug\netcoreapp3.1\Eloy_Barbosa_CS_TP3.genruntimeconfig.cache
+C:\Users\Windows\source\repos\Eloy_Barbosa_CS_TP3\Eloy_Barbosa_CS_TP3\obj\Debug\netcoreapp3.1\Eloy_Barbosa_CS_TP3.csprojAssemblyReference.cache

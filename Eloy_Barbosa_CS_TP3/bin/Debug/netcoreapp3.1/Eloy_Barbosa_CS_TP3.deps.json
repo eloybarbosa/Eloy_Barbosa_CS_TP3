@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Eloy_Barbosa_CS_TP3/1.0.0": {
+        "runtime": {
+          "Eloy_Barbosa_CS_TP3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eloy_Barbosa_CS_TP3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
