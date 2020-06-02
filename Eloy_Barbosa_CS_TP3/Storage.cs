@@ -16,8 +16,6 @@ namespace Eloy_Barbosa_CS_TP3
             Console.Clear();
             Program.Cabecalho();
 
-
-
             Program.EscreverNaTela("Cadastrando Aniversáriante");
             Program.EscreverNaTela("");
             Program.EscreverNaTela("Digite o Nome:");
