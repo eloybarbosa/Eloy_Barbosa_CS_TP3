@@ -12,4 +12,5 @@ namespace Eloy_Barbosa_CS_TP3
         public DateTime DataCadastro { get; set; }
 
     }
+
 }

@@ -18,10 +18,10 @@ namespace Eloy_Barbosa_CS_TP3
             EscreverNaTela("");
             EscreverNaTela("Menu Principal");
             EscreverNaTela("");
-            EscreverNaTela("1 - Aniversáriantes Cadastrados");
-            EscreverNaTela("2 - Cadastrar Aniversáriante");
+            EscreverNaTela("1 - Aniversariantes Cadastrados");
+            EscreverNaTela("2 - Cadastrar Aniversariante");
             EscreverNaTela("3 - Pesquisar por Nome");
-            EscreverNaTela("4 - Pesquisar por Data");
+            EscreverNaTela("4 - Pesquisar por Data de Nascimento");
             EscreverNaTela("5 - Sair");
             EscreverNaTela("");
 
@@ -34,15 +34,17 @@ namespace Eloy_Barbosa_CS_TP3
                     Storage.ConsultarAniversariante(); break;
 
                 case '2':
-                    CadastrarAniversariante(); break;
+                    Storage.CadastrarAniversariante(); break;
                 case '3':
-                    EscreverNaTela("Você escolheu a opção 3"); break;
+                    Storage.ConsultarPeloNome(); break;
                 case '4':
-                    EscreverNaTela("Você escolheu a opção 4"); break;
+                    Storage.ConsultarPelaData(); break;
                 case '5':
-                    EscreverNaTela("Você escolheu a opção 5"); break;
+                    EscreverNaTela("Até a Próxima!!!"); break;
                 default:
-                    EscreverNaTela("Opção Inválida"); break;
+                    EscreverNaTela("Opção Inválida,tente novamente!");
+                    EscreverNaTela(" ");
+                    MenuPrincipal(); break;
             }
         }
 
@@ -60,35 +62,7 @@ namespace Eloy_Barbosa_CS_TP3
             Console.WriteLine(texto);
         }
 
-        public static void CadastrarAniversariante()
-        {
-            Console.Clear();
-            Cabecalho();
-
-           
-
-            EscreverNaTela("Cadastrando Aniversáriante");
-            EscreverNaTela("");
-            EscreverNaTela("Digite o Nome:");
-            string nome = Console.ReadLine();
-            EscreverNaTela("Digite o Sobrenome:");
-            string sobrenome = Console.ReadLine();
-            EscreverNaTela("Digite a data do aniverário (DD/MM/YYYY)");
-            DateTime DataAniversario = DateTime.Parse(Console.ReadLine());
-
-            Aniversariante aniversariante = new Aniversariante();
-            aniversariante.Nome = nome;
-            aniversariante.Sobrenome = sobrenome;
-            aniversariante.DataAniversario = DataAniversario;
-            aniversariante.DataCadastro = DateTime.Now;
-
-
-            Console.Clear();
-            Cabecalho();
-            MenuPrincipal();
-
-
-        } 
+        
         
 
         
